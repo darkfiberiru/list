@@ -6577,10 +6577,91 @@ lib.wy.us
 // k12.ma.us contains school districts in Massachusetts. The 4LDs are
 //  managed independently except for private (PVT), charter (CHTR) and
 //  parochial (PAROCH) schools.  Those are delegated directly to the
-//  5LD operators.   <k12-ma-hostmaster _ at _ rsuc.gweep.net>
+//  5LD operators.   <k12-ma-hostmaster _ at _ rsuc.gweep.
 pvt.k12.ma.us
 chtr.k12.ma.us
 paroch.k12.ma.us
+// All the following domains in oh.us in.us and ky.us have 
+// independently managed 4LDs except pvt.k12.oh.us which has 5LDs. 
+gen.ky.us
+gen.oh.us
+gen.in.us
+pvt.k12.oh.us
+mus.oh.us
+mus.in.us
+tec.oh.us
+tec.in.us
+akron.oh.us
+archbold.oh.us
+athens.oh.us
+beachwood.oh.us
+beavercreek.oh.us
+boardman.oh.us
+cambridge.oh.us
+canfield.oh.us
+canton.oh.us
+celina.oh.us
+cincinnati.oh.us
+clark.oh.us
+cleveland.oh.us
+columbus.oh.us
+cuyahoga-falls.oh.us
+dayton.oh.us
+defiance.oh.us
+elmore.oh.us
+euclid.oh.us
+gahanna.oh.us
+greene.oh.us
+grove-city.oh.us
+hamilton.oh.us
+hilliard.oh.us
+holland.oh.us
+independence.oh.us
+kent.oh.us
+lakewood.oh.us
+lancaster.oh.us
+lexington.oh.us
+lima.oh.us
+mansfield.oh.us
+medina.oh.us
+mentor.oh.us
+middletown.oh.us
+minerva.oh.us
+montgomery.oh.us
+munroe-falls.oh.us
+nelsonville.oh.us
+north-canton.oh.us
+north-olmsted.oh.us
+ottawa.oh.us
+oxford.oh.us
+parma-heights.oh.us
+pataskala.oh.us
+piqua.oh.us
+portsmouth.oh.us
+powell.oh.us
+reynoldsburg.oh.us
+richland.oh.us
+sandusky.oh.us
+springdale.oh.us
+springfield.oh.us
+steubenville.oh.us
+strongsville.oh.us
+summit.oh.us
+tiffin.oh.us
+toledo.oh.us
+troy.oh.us
+tuscarawas.oh.us
+vanwert.oh.us
+vermillion.oh.us
+wapakoneta.oh.us
+washington-ch.oh.us
+waverly.oh.us
+westerville.oh.us
+westlake.oh.us
+woodville.oh.us
+worthington.oh.us
+youngstown.oh.us
+berea.ky.us
 
 // uy : http://www.nic.org.uy/
 uy
